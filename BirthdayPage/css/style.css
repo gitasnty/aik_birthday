@@ -20,6 +20,7 @@ body {
   background: #E5E5E5;
   background-image: url("bg.jpg");
   padding: 50px;
+  position: relative;
 }
 
 #card-front {
